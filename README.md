@@ -69,7 +69,7 @@ Opencast method operates with 256 Mines, 183 UG mines and 20 Mixed Operating met
 
 ## 👤 Author
 
-**Bhanothu Sai Prasad**   
-B.Tech Mining Engineering | IIT (ISM) Dhanbad
+**Manuwada Adithya**   
+B.Tech Petroleum Engineering | IIT (ISM) Dhanbad
 
-[GitHub](https://github.com/Saiprasad12321) | [LinkedIn](https://www.linkedin.com/in/b-sai-prasad-b5b527288/)
+[GitHub](https://github.com/Adithya05064) | [LinkedIn](https://www.linkedin.com/in/adithya-manuwada/)
